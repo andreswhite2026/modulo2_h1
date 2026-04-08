@@ -1,0 +1,83 @@
+*{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.header1{
+    padding-top:0px;
+    background-color: white;
+}
+
+.navbar{
+    margin-top: 20px;
+}
+
+body{
+    margin-top: 20px;
+    font-family: "Roboto", sans-serif;
+    display: inline-flex;
+    padding-top:0px
+}
+section{
+    padding: 16px;
+}
+
+.section1{
+    margin-top: 20px;
+    background-color: bisque;
+}
+
+.section2{
+    margin-top: 20px;
+    
+}
+
+.section3{
+    margin-top: 20px;
+    background-color: beige;
+}
+.btn_proyects:hover{
+    color:aqua
+}
+
+.menus:hover{
+    color: aqua;
+}
+
+.return:hover{
+    color:aqua
+}
+
+.body2{
+    display: inline-flex;
+    flex-direction:column;
+    
+}
+
+.card1{
+    width: 40%;
+    height: 60%;
+    padding: 0%;
+}
+
+.card2{
+    width: 40%;
+    height:70%;
+    padding:0%;
+}
+
+.card3{
+    width: 40%;
+    height:50%;
+    padding:0%;
+}
+
+.section_d{
+    margin-top: 0%;
+    padding-top: 0%;
+}
+
+article{
+    display:flex;
+    -ms-flex-align: end;
+}
